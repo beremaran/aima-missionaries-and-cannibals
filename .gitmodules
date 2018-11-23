@@ -1,3 +1,0 @@
-[submodule "lib/aima3"]
-	path = lib/aima3
-	url = https://github.com/aimacode/aima-java.git
